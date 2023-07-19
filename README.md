@@ -42,3 +42,7 @@
 40. [AI is dumber than humans | Jeremy Dohmann | TEDxBoston](https://youtu.be/K-aXMPtKEJg)
 41. [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://youtu.be/Ag1AKIl_2GM)
 42. [Understanding Artificial Intelligence and Its Future | Neil Nie | TEDxDeerfield](https://youtu.be/SN2BZswEWUA)
+43. [Learning to Code, Coding to Learn : Jonathan Buchanan at TEDxToledo](https://youtu.be/8vXgjfBmzFs)
+44. [iPhone application developer... and 6th grader | Thomas Suarez | TEDxManhattanBeach](https://youtu.be/ehDAP1OQ9Zw)
+45. [Tom Suarez is still looking to the future of computing | Thomas Suarez | TEDxManhattanBeach](https://youtu.be/Bg0ZhlYmmf4)
+46. [The Right Way to Learn Code | Brian Underwood, Max Ptacek & Ben Makarechian | TEDxYouth@SHC](https://youtu.be/PdTEXWtd3HY)
